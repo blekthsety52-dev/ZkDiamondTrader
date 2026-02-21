@@ -1,0 +1,5 @@
+{
+  "name": "ZkDiamondTrader",
+  "description": "AI-powered cryptocurrency trading bot with Diamond Proxy architecture and ZK capabilities.",
+  "requestFramePermissions": []
+}

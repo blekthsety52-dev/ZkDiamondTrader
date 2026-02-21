@@ -1,11 +1,18 @@
-<div align="center">
+# ZkDiamondTrader
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+An AI-powered cryptocurrency trading bot system utilizing the Diamond Proxy Pattern (EIP-2535) architecture on Arbitrum Stylus (Rust).
 
-  <h1>Built with AI Studio</h2>
+## Architecture
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+- **Frontend**: React + Tailwind CSS dashboard for real-time monitoring.
+- **Backend**: Node.js + Express for data ingestion, ML inference, and trade execution.
+- **Smart Contracts**: Rust-based contracts for Arbitrum Stylus implementing the Diamond Pattern.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Setup
 
-</div>
+1. Install dependencies: `npm install`
+2. Start the development server: `npm run dev`
+
+## Smart Contracts (Rust/Stylus)
+
+The smart contract source code is located in `contracts/`.
